@@ -1,1 +1,3 @@
-print(5)
+import controller as c
+
+c.run()
